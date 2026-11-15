@@ -19,7 +19,7 @@ The following is a controlled starting formula for a small pilot. It is not a cl
 | Eggs | 2 large (record actual weight) | 2 large (record actual weight) |
 | Milk | 360 ml | 360 ml |
 | Unsalted butter, melted and cooled | 110 g | — |
-| Neutral olive oil | — | 90 ml |
+| Olive oil | — | 90 ml |
 | Vanilla essence | 5 ml | 5 ml |
 
 Use the same flour, sugar, baking powder, salt, eggs, milk, and essence brands for both trials. If testing a different essence (strawberry or blueberry), do that after selecting the fat version so the comparison remains controlled.
