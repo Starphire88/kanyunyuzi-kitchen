@@ -5,6 +5,10 @@
 
 ## 1. Ingredient costing
 
+Current owner-supplied purchase quotes have been calculated in [ingredient-cost-analysis.md](ingredient-cost-analysis.md). The current priced subtotal for the pilot formula is UGX 9,615.83 with 110 g quoted butter, UGX 5,765.83–5,900.28 with 110 g Blue Band Original, or UGX 12,655.83 with 90 ml olive oil. These are partial ingredient subtotals only: sugar, baking powder, salt, packaging, labour, electricity, wastage, and delivery are excluded. Do not treat them as full batch costs or cost per waffle.
+
+The current machine is rated at 1.1 kW and is stated to cook four waffles per cycle. Measure cooking cycles and energy use; do not infer batch yield from cycle capacity.
+
 Record the purchase price and usable pack quantity for each ingredient. Convert all quantities to a consistent unit.
 
 | Ingredient | Purchase pack size | Purchase price (UGX) | Usable quantity | Cost per g/ml/unit |
