@@ -8,7 +8,9 @@ Establish a repeatable, affordable-premium waffle with a consistent texture, fla
 
 ## Base batch
 
-The following is a controlled starting formula for a small pilot. It is not a claim about final yield; the number of waffles depends on the machine, plate size, and batter portion.
+The following is a controlled starting formula for a small pilot. It is not a claim about final yield; the number of waffles depends on batter portion and cooking conditions. The supplied machine is a Belgian square unit rated at 1,100 W (220–240 V, 50/60 Hz), with a stated capacity of four waffles per cooking cycle.
+
+The business supplied current purchase quotes for flour, eggs, milk, butter, Blue Band Original, olive oil, and vanilla essence. See [ingredient cost analysis](ingredient-cost-analysis.md) for unit costs and partial batch subtotals. Sugar, baking powder, and salt prices remain missing.
 
 | Ingredient | Butter trial | Oil trial |
 |---|---:|---:|
@@ -18,11 +20,12 @@ The following is a controlled starting formula for a small pilot. It is not a cl
 | Salt | 3 g | 3 g |
 | Eggs | 2 large (record actual weight) | 2 large (record actual weight) |
 | Milk | 360 ml | 360 ml |
-| Unsalted butter, melted and cooled | 110 g | — |
+| Lato butter, melted and cooled (quoted pack) | 110 g | — |
+| Blue Band Original (separate comparison trial) | 110 g | 110 g |
 | Olive oil | — | 90 ml |
 | Vanilla essence | 5 ml | 5 ml |
 
-Use the same flour, sugar, baking powder, salt, eggs, milk, and essence brands for both trials. If testing a different essence (strawberry or blueberry), do that after selecting the fat version so the comparison remains controlled.
+Treat butter, Blue Band Original, and olive oil as separate test arms. Keep flour, sugar, baking powder, salt, eggs, milk, essence, batter portion, machine setting, and cooking endpoint constant. Do not combine the Blue Band trial with the olive-oil trial. If testing a different essence (strawberry or blueberry), do that after selecting the fat version so the comparison remains controlled.
 
 ## Method
 
@@ -41,10 +44,10 @@ If the batter is too thick or thin to portion consistently, record the observati
 
 ## Controlled comparison protocol
 
-Run at least three batches of each fat version across comparable conditions. Alternate trial order where practical to reduce machine-temperature and time-of-day bias.
+Run at least three batches of each fat version (butter, Blue Band Original, and olive oil) across comparable conditions. If testing the low-fat Blue Band tub, treat it as a fourth separate arm. Alternate trial order where practical to reduce machine-temperature and time-of-day bias.
 
 Keep constant:
-- Ingredient brands and quantities other than the fat being compared.
+- Ingredient brands and quantities other than the fat product being compared.
 - Egg size/weight and milk.
 - Batter mixing and rest time.
 - Waffle maker, heat setting, and batter portion weight.
