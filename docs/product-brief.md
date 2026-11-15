@@ -3,7 +3,7 @@
 ## Purpose
 Create a lightweight, mobile-first customer experience for discovering Kanyunyuzi's Kitchen waffles, selecting flavours and bundles, entering order preferences, and contacting the business to place or confirm an order.
 
-The first release should prioritise a clear menu and a low-friction order enquiry. Do not assume online payment, automated delivery dispatch, customer accounts, or live inventory unless separately approved.
+The operating model is pre-order only. Waffles are prepared fresh each morning before workplace delivery, with delivery or collection scheduled in advance. The first release should prioritise a clear menu and a low-friction pre-order enquiry. Do not assume online payment, automated delivery dispatch, customer accounts, or live inventory unless separately approved.
 
 ## Customer journey
 1. Discover the kitchen and waffle offering.
@@ -12,7 +12,7 @@ The first release should prioritise a clear menu and a low-friction order enquir
 4. Enter contact and delivery details.
 5. Voluntarily provide allergy, dietary, or other preparation notes.
 6. Review the enquiry and submit it through the agreed contact channel.
-7. Receive confirmation from the business.
+7. Receive confirmation from the business. Orders remain enquiries until confirmed.
 
 ## Product information
 Each menu item should support a name, description, image, price in UGX, serving size or quantity, flavour choices, bundle contents, and availability status.
@@ -39,6 +39,12 @@ Use clear, friendly language suited to customers in Uganda. Waffle bundle naming
 - Visible contact and ordering instructions.
 - Fast-loading imagery.
 - Clear distinction between an enquiry and a confirmed order.
+
+## Pre-order requirements
+- Explain that orders must be placed in advance.
+- Show the confirmed order cut-off and available scheduled delivery / collection slots once defined.
+- Do not imply immediate or on-demand availability.
+- Route enquiries through WhatsApp, with the QR code directing customers to the PWA as currently intended.
 
 ## Out of scope until approved
 Online payment integration, customer accounts, loyalty programme, automated rider assignment, delivery tracking, and complex inventory management.
