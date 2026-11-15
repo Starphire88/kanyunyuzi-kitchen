@@ -1,7 +1,7 @@
 # Operations
 
 ## Intended operating window
-Afternoons and evenings are the current intended operating hours. Exact days and customer cut-off times remain to be confirmed.
+The model is pre-order only. Waffles are prepared fresh each morning before workplace delivery, with delivery or collection scheduled in advance. Exact order cut-off times, operating days, and fulfilment slots remain to be confirmed.
 
 ## Production setup
 - A waffle maker is already owned.
@@ -17,7 +17,7 @@ An initial procurement budget of UGX 100,000–200,000 has been discussed. This 
 Track supplier, pack size, purchase price, date, and usable quantity for every ingredient and packaging item.
 
 ## Order fulfilment
-1. Receive customer enquiry.
+1. Receive pre-order enquiry before the published cut-off.
 2. Check product and flavour availability.
 3. Confirm contact and delivery details.
 4. Confirm price, delivery fee, and estimated fulfilment time.
@@ -37,6 +37,6 @@ Track supplier, pack size, purchase price, date, and usable quantity for every i
 - Customer ordering channel.
 - Food safety and allergen-handling procedures.
 - Payment methods and reconciliation.
-- Pre-order, made-to-order, or hybrid launch model.
+- Exact pre-order cut-off and scheduled delivery / collection slots.
 
 Do not advertise delivery coverage, preparation times, or food-safety claims until operationally verified.
