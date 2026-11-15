@@ -12,7 +12,7 @@ The following is a controlled starting formula for a small pilot. It is not a cl
 
 The business supplied current purchase quotes for flour, eggs, milk, butter, Blue Band Original, olive oil, and vanilla essence. See [ingredient cost analysis](ingredient-cost-analysis.md) for unit costs and partial batch subtotals. Sugar, baking powder, and salt prices remain missing.
 
-| Ingredient | Butter trial | Oil trial |
+| Ingredient | Butter trial | Blue Band Original trial | Olive-oil trial |
 |---|---:|---:|
 | Plain flour | 250 g | 250 g |
 | Sugar | 50 g | 50 g |
@@ -20,9 +20,9 @@ The business supplied current purchase quotes for flour, eggs, milk, butter, Blu
 | Salt | 3 g | 3 g |
 | Eggs | 2 large (record actual weight) | 2 large (record actual weight) |
 | Milk | 360 ml | 360 ml |
-| Lato butter, melted and cooled (quoted pack) | 110 g | — |
-| Blue Band Original (separate comparison trial) | 110 g | 110 g |
-| Olive oil | — | 90 ml |
+| Lato butter, melted and cooled (quoted pack) | 110 g | — | — |
+| Blue Band Original (separate comparison trial) | — | 110 g | — |
+| Olive oil | — | — | 90 ml |
 | Vanilla essence | 5 ml | 5 ml |
 
 Treat butter, Blue Band Original, and olive oil as separate test arms. Keep flour, sugar, baking powder, salt, eggs, milk, essence, batter portion, machine setting, and cooking endpoint constant. Do not combine the Blue Band trial with the olive-oil trial. If testing a different essence (strawberry or blueberry), do that after selecting the fat version so the comparison remains controlled.
