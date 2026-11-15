@@ -14,7 +14,7 @@ This log distinguishes user-provided direction from proposals and open questions
 | Fulfilment | Scheduled delivery or collection | Confirmed |
 | Market context | Uganda; Pearl Marina is an initial target market | Confirmed direction |
 | Positioning | Affordable-premium | Confirmed direction |
-| Existing equipment | Waffle maker already owned | Confirmed |
+| Existing equipment | Belgian square waffle maker, 1,100 W, 220–240 V, 50/60 Hz; stated capacity four waffles per cycle | Owner-supplied specification |
 | Procurement planning | UGX 100,000–200,000 initial budget range discussed | Planning range |
 | Ordering channel | WhatsApp contact; QR code directs customers to the PWA | Confirmed direction |
 | Bundle quantities | 2, 4, 6, 8 waffles, plus custom orders | Confirmed |
@@ -31,6 +31,12 @@ A pilot formula has been documented in [recipe-standardisation.md](recipe-standa
 - Measure actual saleable yield, portion weight, cook time, taste, and cost.
 - Test vanilla, strawberry, and blueberry essence only after selecting the base fat version.
 - Record actual waffle maker model, wattage, settings, and plate capacity.
+
+## Supplier quotes and preliminary costing
+
+Owner-supplied purchase prices received 15 November 2026 are documented and calculated in [ingredient-cost-analysis.md](ingredient-cost-analysis.md). Partial priced ingredient subtotals are available for butter, Blue Band Original, and olive-oil versions. They are not full batch costs or per-waffle costs. Sugar, baking powder, salt, packaging, labour, electricity tariff/consumption, wastage, delivery, and measured saleable yield remain outstanding.
+
+The supplied Blue Band Original quote is UGX 5,500 for a 450–500 g pack. The calculated 110 g fat-line saving versus the quoted 500 g butter pack is 73.4%–76.1%, depending on the actual Blue Band pack net weight. Product performance remains to be tested.
 
 ## Finance work in progress
 
