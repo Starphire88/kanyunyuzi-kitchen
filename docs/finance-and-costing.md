@@ -8,6 +8,10 @@ A preliminary procurement budget of **UGX 100,000–200,000** has been discussed
 
 The waffle maker is already owned; document its specifications and incremental electricity cost.
 
+## Current supplier quote analysis
+
+Owner-supplied purchase prices and calculations are recorded in [ingredient-cost-analysis.md](ingredient-cost-analysis.md). Current priced ingredient subtotals for the pilot recipe are UGX 9,615.83 (110 g butter), UGX 5,765.83–5,900.28 (110 g Blue Band Original), and UGX 12,655.83 (90 ml olive oil). These exclude sugar, baking powder, salt, packaging, labour, electricity, wastage, delivery, and any toppings. They are not complete batch costs or per-waffle costs.
+
 ## Unit economics framework
 For each batch, record ingredient and quantity used, purchase unit and pack size, price, cost per gram/ml/unit, total batch ingredient cost, saleable yield, packaging, labour, electricity, fees, and wastage.
 
