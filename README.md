@@ -21,6 +21,9 @@ This repository is the source of truth for the business concept, product and men
 - [Menu and flavours](docs/menu-and-flavours.md)
 - [Operations](docs/operations.md)
 - [Finance and costing](docs/finance-and-costing.md)
+- [Pilot recipe and controlled testing](docs/recipe-standardisation.md)
+- [Product freshness validation](docs/product-validation-test.md)
+- [Unit economics model](docs/unit-economics-model.md)
 - [Brand guidelines](docs/brand-guidelines.md)
 
 ### Digital product
