@@ -24,6 +24,7 @@ This repository is the source of truth for the business concept, product and men
 - [Pilot recipe and controlled testing](docs/recipe-standardisation.md)
 - [Product freshness validation](docs/product-validation-test.md)
 - [Unit economics model](docs/unit-economics-model.md)
+- [Ingredient cost analysis and supplier quotes](docs/ingredient-cost-analysis.md)
 - [Brand guidelines](docs/brand-guidelines.md)
 
 ### Digital product
